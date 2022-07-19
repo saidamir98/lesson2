@@ -1,0 +1,7 @@
+Men udaladim qilgan ishlarim yangi brash ochdim va unga utib yanga papkalar yaratdim va uni uchiga yangi fayllar yaratib uni tuldirdim va men bugungi  vazifalarni udaladim 
+urgangan operatsiyalarim bular:
+git push origin <brash nomi> -m <yuboradigan faylimiz>
+git pull origin <brash nomi>  // bu aytilgan brashdan  fayllarni yuklaydi
+git add 
+git commit
+git checkout // bu brashni aniqlash yokida yangi brashga utish
